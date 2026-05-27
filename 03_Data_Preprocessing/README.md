@@ -9,3 +9,5 @@ Problems in this folder:
 - `05_one_hot_encoding.py`
 - `06_outlier_iqr.py`
 - `07_train_test_split.py`
+- `08_duplicate_removal.py`
+- `09_standardization.py`
